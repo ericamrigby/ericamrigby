@@ -4,6 +4,7 @@
     <head>
       <meta charset="UTF-8">
       </meta charset>
+  <link rel="stylesheet" type="text/css" href="main.css"></link>
     </head>
     <body>
   <h3><i>Data Regarding Latin-American Countries</i></h3>
