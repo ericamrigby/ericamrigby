@@ -5,8 +5,8 @@
       <meta charset="UTF-8">
       </meta charset>
     </head>
-    <body style="background-color:red;">
-  <h1>Data Regarding Latin-American Countries</h1>
+    <body>
+  <h3><i>Data Regarding Latin-American Countries</i></h3>
   <table style="border: 2px solid black;">
     <tr>
       <th></th>
