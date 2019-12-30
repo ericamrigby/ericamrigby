@@ -7,7 +7,7 @@
   <link rel="stylesheet" type="text/css" href="main.css"></link>
     </head>
     <body>
-  <img src="https://images.unsplash.com/photo-1558979158-65a1eaa08691?ixlib=rb-1.2.1&dpr=1&auto=format&fit=crop&w=416&h=312&q=60" width="auto" height="auto" alt="Girl singing"/>
+  <img src="https://images.unsplash.com/photo-1558979158-65a1eaa08691?ixlib=rb-1.2.1&dpr=1&auto=format&fit=crop&w=416&h=312&q=60" width="800px" height="300px" alt="Girl singing"/>
   <h3><i>Data Regarding Latin-American Countries</i></h3>
   <table style="border: 2px solid black;">
     <tr>
