@@ -26,5 +26,10 @@
       <td>2500km</td>
       <td>2750km</td>
   </table>
+  <form>
+    <p>Which is your favorite Latin American country?</p>
+    <input name="favcountry" type="checkbox">Paraguay</input>
+    <input name="favcountry" type="checkbox">Colombia</input>
+    <input name="favcountry" type="checkbox">Bolivia</input>
       </body>
   </html>
